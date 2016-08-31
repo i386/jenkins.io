@@ -1,12 +1,12 @@
 ---
-layout: simplepage
+layout: documentation
 ---
 :doctitle: Securing Jenkins
 :notitle:
 :description:
 :email: jenkinsci-users@googlegroups.com
 :imagesdir: /doc/book/resources/securing-jenkins
-:toc: left
+:toc:
 
 == Securing Jenkins
 In the default configuration of Jenkins 1.x, Jenkins does not perform any security checks. This means the ability of Jenkins to

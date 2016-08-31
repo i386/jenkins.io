@@ -40,6 +40,7 @@ layout: default
         %h5
           Advanced
         %ul
+          - book_dir = File.expand_path(File.join(File.dirname(__FILE__), File.join("../", "/doc/book")))
           - sections_from(book_dir).each do |section, file, url, children|
             /
               This section provided by the following document:
