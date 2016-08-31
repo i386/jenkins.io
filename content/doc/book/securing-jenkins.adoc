@@ -1,5 +1,6 @@
 ---
 layout: documentation
+section: doc
 ---
 :doctitle: Securing Jenkins
 :notitle:
